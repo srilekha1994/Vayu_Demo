@@ -7,3 +7,5 @@ downstream changes 2
 =======
 upstream change 2
 >>>>>>> c94f2a0881973b35a9d458830c694f7e95651212
+
+downstream changes 3
