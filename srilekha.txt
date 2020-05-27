@@ -7,5 +7,13 @@ downstream changes 2
 =======
 upstream change 2
 >>>>>>> c94f2a0881973b35a9d458830c694f7e95651212
+<<<<<<< HEAD
 
 downstream changes 3
+<<<<<<< Updated upstream
+=======
+Upstream changes 3
+>>>>>>> cf8856fb995ec5c903c5ef35bed070bc4e959cb7
+=======
+downstream changes 4
+>>>>>>> Stashed changes
